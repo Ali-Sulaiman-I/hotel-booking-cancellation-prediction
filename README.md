@@ -32,7 +32,6 @@ This project builds and compares five classification models that predict, from b
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
 - [Research Paper and Presentation](#research-paper-and-presentation)
-- [Authors](#authors)
 - [License](#license)
 
 ---
@@ -195,16 +194,7 @@ This project was also written up as a full research paper and presented as a sli
 - [Research Paper (PDF)](docs/research_paper.pdf) — IEEE style paper covering abstract, related work, methodology, results and conclusion.
 - [Presentation (PPTX)](docs/presentation.pptx) — 19 slide deck summarizing the project.
 
----
 
-## Authors
-
-**Team 32 — Faculty of Computer Science, Misr International University, Cairo, Egypt**
-
-- Ali Hassan Sulaiman (Team Leader)
-- Mohamed Waleed Galal
-- Omar Hassan Mostafa
-- Zyad Tarek Mohamed
 
 ---
 
